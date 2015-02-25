@@ -3,6 +3,6 @@ QJump Hadoop configuration and setup. Used to reproduce QJump experiments that i
 
 Note: Don't forget to update the namenode and jobtracker fields to the hostname you want to use.
 
-To use this run "setup.sh" on any node that needs configuring. For nodes the master node run "setup.sh master". 
+To use this run "setup.sh" on any node that needs configuring. For the master node run "setup.sh master". 
 
 
